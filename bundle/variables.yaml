@@ -1,0 +1,4 @@
+variables:
+- team: nizarc-cloudbees-ci-casc-workshop
+- admin-user: nizarchoudhury-admin
+- manager-user: nizarchoudhury
